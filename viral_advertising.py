@@ -1,8 +1,8 @@
 import os
 
 def viralAdvertising(n):
-    """ int -> int
-    calculates number of total likes given a certain amount of days that have passed
+    """ calculates number of total likes given a certain amount of days that have passed
+    int -> int
     :param n: number of days
     :return: number of total likes
     """

@@ -1,7 +1,7 @@
 
 def count_substring(string, sub_string):
-    """  (str,str) -> int
-    check for occurrencies of substring in string
+    """  check for occurrencies of substring in string
+    (str,str) -> int
     :param string: string that contains substring
     :param sub_string: the substring pattern to check
     :return: number of occurrencies

@@ -5,8 +5,8 @@ import os
 # Complete the superDigit function below.
 
 def superDigit(n, k):
-    """ (str,int) -> int
-    calculates superdigit
+    """ calculates superdigit
+    (str,int) -> int
     :param n: string representation of an integer
     :param k: number of concatenations of n
     :return: superdigit

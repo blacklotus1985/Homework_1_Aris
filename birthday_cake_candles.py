@@ -3,8 +3,8 @@ import os
 from collections import Counter
 
 def birthdayCakeCandles(ar):
-    """ array -> int
-    calculates how many blown candles
+    """ calculates how many blown candles
+    array -> int
     :param ar: array representing candles
     :return: number of candles blown
     """
