@@ -1,5 +1,4 @@
 
-# set variables False
 if __name__ == '__main__':
     alphanumeric = False
     alphabetic = False
